@@ -3,25 +3,21 @@ url:
 author: Colorie
 author:
   name: Colorie
-  email: 
+  email: elm.s.camargo@gmail.com
   url: 
   avatar: 
 title: Colorie
 description: Colorie - Single column blog and portfolio Jekyll theme 
 logo: 
 image: 
-twitter: ronaldsvilcins  
+twitter:  
 twitter:
-  username: ronaldsvilcins
-  creator: ronaldsvilcins
+  username:
+  creator:
   card: summary
 social:
-  name: Ronalds Vilcins
+  name:
   links:
-    - https://twitter.com/#
-    - https://www.dribbble.com/#
-    - https://github.com/#
-    - https://codepen.io/#
   
 permalink: pretty
 
