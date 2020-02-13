@@ -2,7 +2,7 @@
 layout: post
 title: Another Post
 description: Im gonna have to watch narcos season 2 later
-summary: Lorem Ipsum is simply dummy text.
+summary: No mames guey
 tags: [css]
 ---
 

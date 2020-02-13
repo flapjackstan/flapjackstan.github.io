@@ -2,7 +2,7 @@
 layout: post
 title: Cool Post
 description: dummy text
-summary: Lorem Ipsum is simply dummy text.
+summary: Lorem dummy text puto
 tags: [css]
 ---
 
