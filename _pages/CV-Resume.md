@@ -1,4 +1,4 @@
 ---
-layout: tags
+layout: CV-Resume
 title: CV/Resume
 ---
