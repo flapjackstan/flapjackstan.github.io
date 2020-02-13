@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Printing and typesetting industry
-description: Lorem Ipsum is simply dummy text
+title: Cool Post
+description: dummy text
 summary: Lorem Ipsum is simply dummy text.
 tags: [css]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Desktop publishing software
-description: Lorem Ipsum is simply dummy text
+title: Another Post
+description: Im gonna have to watch narcos season 2 later
 summary: Lorem Ipsum is simply dummy text.
 tags: [css]
 ---

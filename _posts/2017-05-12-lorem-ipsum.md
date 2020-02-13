@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Remaining essentially unchanged
-description: Lorem Ipsum is simply dummy text
+description: Were gonna need a bigger boat
 summary: Lorem Ipsum is simply dummy text.
 tags: [css]
 ---

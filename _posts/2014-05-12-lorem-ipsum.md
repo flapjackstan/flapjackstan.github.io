@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simply dummy text
-description: Lorem Ipsum is simply dummy text
+description: Chella y Mota 
 summary: Lorem Ipsum is simply dummy text.
 tags: [css]
 ---
