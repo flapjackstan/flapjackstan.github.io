@@ -1,4 +1,4 @@
 ---
-layout: CV-Resume
-title: CV/Resume
+layout: page
+title: cv-resume
 ---
