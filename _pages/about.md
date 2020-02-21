@@ -3,6 +3,9 @@ layout: page
 title: About
 ---
 
+![about_plant.jpg](../images/about_plant.jpg)
+
+
 ## Colorie - Single column blog and portfolio Jekyll theme 
 
 Colorful, minimal one-column portfolio/blog theme built for Jekyll. Perfect for your personal website, blog and portfolio.
@@ -20,5 +23,3 @@ Colorful, minimal one-column portfolio/blog theme built for Jekyll. Perfect for 
 - atom feed
 - json feed
 - http security headers
-
-![about_plant.jpg](../about_plant.jpg)
