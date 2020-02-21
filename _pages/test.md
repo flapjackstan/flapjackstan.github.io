@@ -1,3 +1,5 @@
+include in navigation file if you want to connect
+
 ---
 layout: page
 title: Test

@@ -6,7 +6,7 @@ title: cv-resume
 ---
 # ELMER CAMARGO
 ---
-(714) 342-7808 //[camargop@chapman.edu](mailto:camargop@chapman.edu)// Orange County, California
+Phone Number Upon Request //[camargop@chapman.edu](mailto:camargop@chapman.edu)// Orange County, California
 
 **DATA SCIENCE + SOFTWARE**
 
@@ -22,6 +22,7 @@ Gathered, cleaned, reviewed and mapped geospatial data for federally funded rese
 --- Created a reusable Rscript to clean, geocode, and spatially join data for applying crossvalidation techniques for ANOVA testing and model building (OLS and Random Forest).
 
 **Software-Engineer Intern, Northrop Grumman**
+
 10-Week Program, Jun to Aug 2019 - Los Angeles County, California
 
 Developed, modified, and maintained proprietary software in support of an open mission system architecture used to enable customers to configure a pilot instructor-student trainer environment by simulating air vehicle and ground stationcomponents.
@@ -30,7 +31,8 @@ Developed, modified, and maintained proprietary software in support of an open m
 
 --- Created a remote input output (RIO) channel used by the simulated vehicle management system to turn on an aircrafts auxiliary power unit (APU) and signal engine ready status using C++ and Python.
 
-**C4ISR Collections + Process Manager, 3rd Intelligence Battalion + III MEf** 
+**C4ISR Collections + Process Manager, 3rd Intelligence Battalion + III MEF** 
+
 2015 to 2017 - Okinawa,Japan
 
 Managed the use of organizational satellite-air-ground data collection resources by validating and processing customer collection requests within the Asia-PACOM region. Customer service ranged from issue development, requirement building consultations, and collaborating with technical teams to construct customer collection feeds.
@@ -42,6 +44,7 @@ Managed the use of organizational satellite-air-ground data collection resources
 --- Served as a mediator at over 200 meetings between customers and third-party technical teams to establish transparent relationships that allowed for comfortable and structured communication between allparties.
 
 **Intelligence Analyst, 3rd Intelligence Battalion** 
+
 2012 to 2015 - Okinawa,Japan
 
 Updated the regional executive officer about changes in the operational area of 36 countries with a focus in maritime affairs and creating operational products and presentations to accurately describe changes within geospatial environments.
@@ -49,6 +52,7 @@ Updated the regional executive officer about changes in the operational area of 
 --- Briefed weekly presentations to executive staff of changes in the operational environment and monthly forecasts for potential issues within the tactical and strategicenvironment.
 
 **Co-Founder + Project Manager, Table 87**
+
 2012 to 2016 - Orange County,California
 
 Created, funded, and managed a startup business in the music and event industry. Led team event planning sessions, balanced budgets, tracked internal requirements, customer trends analysis, and delegated operational requirements to management teams for event execution.

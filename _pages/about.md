@@ -20,3 +20,5 @@ Colorful, minimal one-column portfolio/blog theme built for Jekyll. Perfect for 
 - atom feed
 - json feed
 - http security headers
+
+![about_plant.jpg](../about_plant.jpg)
