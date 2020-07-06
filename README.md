@@ -18,3 +18,9 @@ Colorful, minimal one-column portfolio/blog theme built for Jekyll. Perfect for 
 - http security headers
 
 ![Screenshot](screenshot.png)
+
+_pages hold the files that populate the tabs at the top of the site
+_includes/navigation.html renders the files in the pages folder
+
+
+to add a tab add a file in _pages and add it to the navigation.html

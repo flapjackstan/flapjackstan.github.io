@@ -64,6 +64,18 @@ Expected Graduation Date: 01/2021
 
 Bachelor of Science in Data Analytics - 3.1 GPA
 
-**Technical Skills + Certifications**
+**Programming Tools**
 
-TS//SCI Clearance (Expired), ArcMap + ArcPy, USPACOM Critical Thinking and Structured Analytical Techniques Certification, Git, Python, Java, C++, R, Geospatial Information Management System Certification, Lean Six Sigma Yellow Belt, USMC Financial Management Certification, Trello Project Management, Coggle Visualizations,MicrosoftOffice,DOD Intelligence and Effective Writing Certification, Microsoft Visual Studio, Atlassian Development Toolset
+##### Python
+`pandas` `seaborn` `scipy` `shapely` `numpy` `requests` `plotnine` `googlemaps` `pyyaml` `arcpy`
+
+##### R
+`tidyverse` `sf` `mice` `randomForest` `glmnet`
+
+##### C++
+`GDAL`
+
+**Certifications and Skills**
+
+TS//SCI Clearance (Expired), ArcMap, USPACOM Critical Thinking and Structured Analytical Techniques Certification, Geospatial Information Management System Certification, Lean Six Sigma Yellow Belt, USMC Financial Management Certification, Trello Project Management, Coggle Visualizations,Microsoft Office, DOD Intelligence and Effective Writing Certification, Microsoft Visual Studio, Atlassian Development Toolset
+

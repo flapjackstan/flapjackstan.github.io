@@ -2,24 +2,19 @@
 layout: page
 title: About
 ---
+## Elmer Camargo 
 
 ![about_plant.jpg](../images/about_plant.jpg)
 
+I enjoy working with data and tackling complex issues with a good attitude.
 
-## Colorie - Single column blog and portfolio Jekyll theme 
+## Programming Tools
 
-Colorful, minimal one-column portfolio/blog theme built for Jekyll. Perfect for your personal website, blog and portfolio.
+##### Python
+`pandas` `seaborn` `scipy` `shapely` `numpy` `requests` `plotnine` `googlemaps` `pyyaml`
 
-### Key features
+##### R
+`tidyverse` `sf` `mice` `randomForest` `glmnet`
 
-- seo optimized
-- portfolio/blog/tag pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
-- json feed
-- http security headers
+##### C++
+`GDAL`
