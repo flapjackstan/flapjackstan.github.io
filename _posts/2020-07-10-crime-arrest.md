@@ -1,8 +1,8 @@
 ---
-layout: blog
+layout: project
 title: LAPD Arrest Analysis
 summary: Data Exploration
-category: Crime Arrest Data
+category: Arrests by Race
 ---
 
 awwww yissss

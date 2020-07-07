@@ -1,8 +1,8 @@
 ---
-layout: projects
+layout: project
 title: LAPD Crime Analysis
 summary: Data Exploration
-category: Crime Report Data
+category: Violent and Property Crimes
 ---
 
 awwww yissss
