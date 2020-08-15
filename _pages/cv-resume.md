@@ -35,8 +35,7 @@ Implemented software unit tests in C++ using the Google Testing Framework for so
 
 Created a remote input output (RIO) channel used by the simulated vehicle management system to turn on an aircrafts auxiliary power unit (APU) and signal engine ready status using C++ and Python.
 
-**C4ISR Collections + Process Manager, 3rd Intelligence Battalion + III MEF**<br />  
-2015 to 2017 - Okinawa,Japan
+**C4ISR Collections + Process Manager, 3rd Intelligence Battalion + III MEF**<br />2015 to 2017 - Okinawa,Japan
 
 Managed the use of organizational satellite-air-ground data collection resources by validating and processing customer collection requests within the Asia-PACOM region. Customer service ranged from issue development, requirement building consultations, and collaborating with technical teams to construct customer collection feeds.
 
@@ -45,7 +44,7 @@ Managed the use of organizational satellite-air-ground data collection resources
 - Served as a mediator at over 200 meetings between customers and third-party technical teams to establish transparent relationships that allowed for comfortable and structured communication between all parties.  \
 
 
-**Intelligence Analyst, 3rd Intelligence Battalion**
+**Intelligence Analyst, 3rd Intelligence Battalion**  /
 2012 to 2015 - Okinawa,Japan
 
 Updated the regional executive officer about changes in the operational area of 36 countries with a focus in maritime affairs and creating operational products and presentations to accurately describe changes within geospatial environments.
