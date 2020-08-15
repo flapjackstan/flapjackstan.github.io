@@ -26,7 +26,7 @@ Collect, clean, review and map geospatial data for federally funded research pro
 
 - Familiar with OLS, Random Forest, Generalized Additive, ARIMA, KNN, Geographically Weighted Regression, and K Means Clustering
 
-**Software-Engineer Intern, Northrop Grumman**  \n
+**Software-Engineer Intern, Northrop Grumman**  \
 10-Week Program, Jun to Aug 2019 - Los Angeles County, California
 
 Developed, modified, and maintained proprietary software in support of an open mission system architecture used to enable customers to configure a pilot instructor-student trainer environment by simulating air vehicle and ground stationcomponents.
@@ -35,14 +35,15 @@ Implemented software unit tests in C++ using the Google Testing Framework for so
 
 Created a remote input output (RIO) channel used by the simulated vehicle management system to turn on an aircrafts auxiliary power unit (APU) and signal engine ready status using C++ and Python.
 
-**C4ISR Collections + Process Manager, 3rd Intelligence Battalion + III MEF**
+**C4ISR Collections + Process Manager, 3rd Intelligence Battalion + III MEF**<br />  
 2015 to 2017 - Okinawa,Japan
 
 Managed the use of organizational satellite-air-ground data collection resources by validating and processing customer collection requests within the Asia-PACOM region. Customer service ranged from issue development, requirement building consultations, and collaborating with technical teams to construct customer collection feeds.
 
-- Worked on an 8-person geospatial technical team utilizing Agile-Scrum project management techniques to schedule and satisfy collection requests for the Marine Pacific detachment consisting of 35,000 to 55,000 personnel.  \n
-- Conducted customer interviews to develop story tasks and expectations used to construct collection plans that fed into over 100 validated and satisfied geospatial products.  \n
-- Served as a mediator at over 200 meetings between customers and third-party technical teams to establish transparent relationships that allowed for comfortable and structured communication between all parties.  \n
+- Worked on an 8-person geospatial technical team utilizing Agile-Scrum project management techniques to schedule and satisfy collection requests for the Marine Pacific detachment consisting of 35,000 to 55,000 personnel.  \
+- Conducted customer interviews to develop story tasks and expectations used to construct collection plans that fed into over 100 validated and satisfied geospatial products.  \
+- Served as a mediator at over 200 meetings between customers and third-party technical teams to establish transparent relationships that allowed for comfortable and structured communication between all parties.  \
+
 
 **Intelligence Analyst, 3rd Intelligence Battalion**
 2012 to 2015 - Okinawa,Japan
