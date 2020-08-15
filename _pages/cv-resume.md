@@ -18,6 +18,8 @@ Data Place
 
 - a
 
+- b
+
 **Software-Engineer Intern, Northrop Grumman**  \
 10-Week Program, Jun to Aug 2019 - Los Angeles County, California
 
