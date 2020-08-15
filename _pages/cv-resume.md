@@ -16,26 +16,29 @@ Five years of experience in researching, reviewing, refining, and evaluating req
 **Work Place**  \
 Data Place
 
+- a
+
 **Software-Engineer Intern, Northrop Grumman**  \
 10-Week Program, Jun to Aug 2019 - Los Angeles County, California
-- Developed, modified, and maintained proprietary software in support of an open mission system architecture used to enable customers to configure a pilot instructor-student trainer environment by simulating air vehicle and ground station components.
 
-- Implemented software unit tests in C++ using the Google Testing Framework for source files to track and detail project success and failure rates. Files being tested ranged from establishing UDP and TCP server connections, linking libraries, and bit manipulation.
+Developed, modified, and maintained proprietary software in support of an open mission system architecture used to enable customers to configure a pilot instructor-student trainer environment by simulating air vehicle and ground station components.
 
-- Created a remote input output (RIO) channel used by the simulated vehicle management system to turn on an aircrafts auxiliary power unit (APU) and signal engine ready status using C++ and Python.
+Implemented software unit tests in C++ using the Google Testing Framework for source files to track and detail project success and failure rates. Files being tested ranged from establishing UDP and TCP server connections, linking libraries, and bit manipulation.
+
+Created a remote input output (RIO) channel used by the simulated vehicle management system to turn on an aircrafts auxiliary power unit (APU) and signal engine ready status using C++ and Python.
 
 **C4ISR Collections + Process Manager, 3rd Intelligence Battalion + III MEF**  \
 2015 to 2017 - Okinawa, Japan
 
 Managed the use of organizational satellite-air-ground data collection resources by validating and processing customer collection requests within the Asia-PACOM region. 
 
-- Customer service ranged from issue development, requirement building consultations, and collaborating with technical teams to construct customer collection feeds.
+Customer service ranged from issue development, requirement building consultations, and collaborating with technical teams to construct customer collection feeds.
 
-- Worked on an 8-person geospatial technical team utilizing Agile-Scrum project management techniques to schedule and satisfy collection requests for the Marine Pacific detachment consisting of 35,000 to 55,000 personnel.
+Worked on an 8-person geospatial technical team utilizing Agile-Scrum project management techniques to schedule and satisfy collection requests for the Marine Pacific detachment consisting of 35,000 to 55,000 personnel.
 
-- Conducted customer interviews to develop story tasks and expectations used to construct collection plans that fed into over 100 validated and satisfied geospatial products.
+Conducted customer interviews to develop story tasks and expectations used to construct collection plans that fed into over 100 validated and satisfied geospatial products.
 
-- Served as a mediator at over 200 meetings between customers and third-party technical teams to establish transparent relationships that allowed for comfortable and structured communication between all parties.
+Served as a mediator at over 200 meetings between customers and third-party technical teams to establish transparent relationships that allowed for comfortable and structured communication between all parties.
 
 
 **Intelligence Analyst, 3rd Intelligence Battalion**  \
