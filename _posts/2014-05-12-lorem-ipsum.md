@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simply dummy text
-description: Chella y Mota 
+description: Cheleando Y Batallando
 summary: Chella y Mota aca
 tags: [css]
 ---
