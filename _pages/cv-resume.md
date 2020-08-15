@@ -1,4 +1,11 @@
+---
+layout: page
+title: cv-resume
+---
+
+---
 # ELMER CAMARGO
+---
 
 (714) 342-7808 //[camargop@chapman.edu](mailto:camargop@chapman.edu)// Orange County, California
 
