@@ -13,18 +13,8 @@ title: cv-resume
 
 Five years of experience in researching, reviewing, refining, and evaluating requirements and information gaps to develop operational action plans. Effective in communicating and interpreting both business and technical specifications and vice versa between customers and development teams. Additional 4 years of experience in business startup and project management and comfortable working with teams, building forecasts, budgets, trend and patterns reports, and presentations.
 
-**Geospatial Analyst, Health and Space Lab**        
-Aug 2019 to Current - Orange County, California
-
-Collect, clean, review and map geospatial data for federally funded research projects focused on analyzing relationships and trends within disadvantaged communities for projects related to Public Health.
-
--  a
-
-- b
-
-- c
-
-- d 
+**Work Place**  \
+Data Place
 
 **Software-Engineer Intern, Northrop Grumman**  \
 10-Week Program, Jun to Aug 2019 - Los Angeles County, California
