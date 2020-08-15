@@ -28,12 +28,12 @@ Familiar with OLS, Random Forest, Generalized Additive, ARIMA, KNN, Geographical
 
 **Software-Engineer Intern, Northrop Grumman**  \
 10-Week Program, Jun to Aug 2019 - Los Angeles County, California
-
-- Developed, modified, and maintained proprietary software in support of an open mission system architecture used to enable customers to configure a pilot instructor-student trainer environment by simulating air vehicle and ground stationcomponents.
-
-- Implemented software unit tests in C++ using the Google Testing Framework for source files to track and detail project success and failure rates. Files being tested ranged from establishing UDP and TCP server connections, linking libraries, and bit manipulation.
-
-- Created a remote input output (RIO) channel used by the simulated vehicle management system to turn on an aircrafts auxiliary power unit (APU) and signal engine ready status using C++ and Python.
+- 
+Developed, modified, and maintained proprietary software in support of an open mission system architecture used to enable customers to configure a pilot instructor-student trainer environment by simulating air vehicle and ground stationcomponents.
+- 
+Implemented software unit tests in C++ using the Google Testing Framework for source files to track and detail project success and failure rates. Files being tested ranged from establishing UDP and TCP server connections, linking libraries, and bit manipulation.
+- 
+Created a remote input output (RIO) channel used by the simulated vehicle management system to turn on an aircrafts auxiliary power unit (APU) and signal engine ready status using C++ and Python.
 
 **C4ISR Collections + Process Manager, 3rd Intelligence Battalion + III MEF**  \
 2015 to 2017 - Okinawa, Japan
