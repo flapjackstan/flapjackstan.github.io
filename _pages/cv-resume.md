@@ -18,13 +18,14 @@ Aug 2019 to Current - Orange County, California
 
 Collect, clean, review and map geospatial data for federally funded research projects focused on analyzing relationships and trends within disadvantaged communities for projects related to Public Health.
 
-- Designed and implemented a risk index database using a cloud based mysql instance using New York public health department COVID-19 reporting, census estimates, and hospital inventory reports.  
+- Designed and implemented a risk index database using a cloud based mysql instance using New York public health department COVID-19 reporting, census estimates, and hospital inventory reports.<br />
 
-- Automated reusable python web scraping tools to collect JSON formatted geospatial data from Weedmaps API, Google Maps API, and Yelp API that reduced time spent manually gathering data.
+- Automated reusable python web scraping tools to collect JSON formatted geospatial data from Weedmaps API, Google Maps API, and Yelp API that reduced time spent manually gathering data.<br />
 
-- Implemented coding standards to assist onboarding analysts to clean, geocode, and spatially join data for applying cross validation techniques for ANOVA testing and model building in both python and R.
+- Implemented coding standards to assist onboarding analysts to clean, geocode, and spatially join data for applying cross validation techniques for ANOVA testing and model building in both python and R.<br />
 
-- Familiar with OLS, Random Forest, Generalized Additive, ARIMA, KNN, Geographically Weighted Regression, and K Means Clustering
+- Familiar with OLS, Random Forest, Generalized Additive, ARIMA, KNN, Geographically Weighted Regression, and K Means Clustering<br />
+
 
 **Software-Engineer Intern, Northrop Grumman**  \
 10-Week Program, Jun to Aug 2019 - Los Angeles County, California
@@ -45,14 +46,14 @@ Managed the use of organizational satellite-air-ground data collection resources
 - Served as a mediator at over 200 meetings between customers and third-party technical teams to establish transparent relationships that allowed for comfortable and structured communication between all parties.  <br />  
 
 
-**Intelligence Analyst, 3rd Intelligence Battalion**  /
+**Intelligence Analyst, 3rd Intelligence Battalion**  \
 2012 to 2015 - Okinawa,Japan
 
 Updated the regional executive officer about changes in the operational area of 36 countries with a focus in maritime affairs and creating operational products and presentations to accurately describe changes within geospatial environments.
 
 - Briefed weekly presentations to executive staff of changes in the operational environment and monthly forecasts for potential issues within the tactical and strategicenvironment.
 
-**Co-Founder + Project Manager, Table 87**
+**Co-Founder + Project Manager, Table 87**  \
 2012 to 2016 - Orange County,California
 
 Created, funded, and managed a startup business in the music and event industry. Led team event planning sessions, balanced budgets, tracked internal requirements, customer trends analysis, and delegated operational requirements to management teams for event execution.
