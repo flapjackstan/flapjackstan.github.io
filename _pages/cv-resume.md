@@ -35,13 +35,14 @@ Implemented software unit tests in C++ using the Google Testing Framework for so
 
 Created a remote input output (RIO) channel used by the simulated vehicle management system to turn on an aircrafts auxiliary power unit (APU) and signal engine ready status using C++ and Python.
 
-**C4ISR Collections + Process Manager, 3rd Intelligence Battalion + III MEF**<br />2015 to 2017 - Okinawa,Japan
+**C4ISR Collections + Process Manager, 3rd Intelligence Battalion + III MEF**  \
+2015 to 2017 - Okinawa,Japan
 
 Managed the use of organizational satellite-air-ground data collection resources by validating and processing customer collection requests within the Asia-PACOM region. Customer service ranged from issue development, requirement building consultations, and collaborating with technical teams to construct customer collection feeds.
 
-- Worked on an 8-person geospatial technical team utilizing Agile-Scrum project management techniques to schedule and satisfy collection requests for the Marine Pacific detachment consisting of 35,000 to 55,000 personnel.  \
-- Conducted customer interviews to develop story tasks and expectations used to construct collection plans that fed into over 100 validated and satisfied geospatial products.  \
-- Served as a mediator at over 200 meetings between customers and third-party technical teams to establish transparent relationships that allowed for comfortable and structured communication between all parties.  \
+- Worked on an 8-person geospatial technical team utilizing Agile-Scrum project management techniques to schedule and satisfy collection requests for the Marine Pacific detachment consisting of 35,000 to 55,000 personnel.  <br />  
+- Conducted customer interviews to develop story tasks and expectations used to construct collection plans that fed into over 100 validated and satisfied geospatial products.  <br />  
+- Served as a mediator at over 200 meetings between customers and third-party technical teams to establish transparent relationships that allowed for comfortable and structured communication between all parties.  <br />  
 
 
 **Intelligence Analyst, 3rd Intelligence Battalion**  /
