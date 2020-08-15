@@ -16,10 +16,9 @@ Five years of experience in researching, reviewing, refining, and evaluating req
 **Work Place**  \
 Data Place
 
-- a
+     A ljfdcg
 
-
-- b
+     Bhttg grddx
 
 **Software-Engineer Intern, Northrop Grumman**  \
 10-Week Program, Jun to Aug 2019 - Los Angeles County, California
