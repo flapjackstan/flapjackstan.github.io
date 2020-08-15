@@ -25,6 +25,7 @@ Collect, clean, review and map geospatial data for federally funded research pro
 - c
 
 - d 
+
 **Software-Engineer Intern, Northrop Grumman**  \
 10-Week Program, Jun to Aug 2019 - Los Angeles County, California
 - Developed, modified, and maintained proprietary software in support of an open mission system architecture used to enable customers to configure a pilot instructor-student trainer environment by simulating air vehicle and ground station components.
