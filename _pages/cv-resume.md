@@ -30,31 +30,31 @@ Collect, clean, review and map geospatial data for federally funded research pro
 **Software-Engineer Intern, Northrop Grumman**  \
 10-Week Program, Jun to Aug 2019 - Los Angeles County, California
 
-Developed, modified, and maintained proprietary software in support of an open mission system architecture used to enable customers to configure a pilot instructor-student trainer environment by simulating air vehicle and ground stationcomponents.
+-Developed, modified, and maintained proprietary software in support of an open mission system architecture used to enable customers to configure a pilot instructor-student trainer environment by simulating air vehicle and ground stationcomponents.
 
-Implemented software unit tests in C++ using the Google Testing Framework for source files to track and detail project success and failure rates. Files being tested ranged from establishing UDP and TCP server connections, linking libraries, and bit manipulation.
+-Implemented software unit tests in C++ using the Google Testing Framework for source files to track and detail project success and failure rates. Files being tested ranged from establishing UDP and TCP server connections, linking libraries, and bit manipulation.
 
-Created a remote input output (RIO) channel used by the simulated vehicle management system to turn on an aircrafts auxiliary power unit (APU) and signal engine ready status using C++ and Python.
+-Created a remote input output (RIO) channel used by the simulated vehicle management system to turn on an aircrafts auxiliary power unit (APU) and signal engine ready status using C++ and Python.
 
 **C4ISR Collections + Process Manager, 3rd Intelligence Battalion + III MEF**  \
-2015 to 2017 - Okinawa,Japan
+2015 to 2017 - Okinawa, Japan
 
 Managed the use of organizational satellite-air-ground data collection resources by validating and processing customer collection requests within the Asia-PACOM region. Customer service ranged from issue development, requirement building consultations, and collaborating with technical teams to construct customer collection feeds.
 
-- Worked on an 8-person geospatial technical team utilizing Agile-Scrum project management techniques to schedule and satisfy collection requests for the Marine Pacific detachment consisting of 35,000 to 55,000 personnel.  <br />  
-- Conducted customer interviews to develop story tasks and expectations used to construct collection plans that fed into over 100 validated and satisfied geospatial products.  <br />  
-- Served as a mediator at over 200 meetings between customers and third-party technical teams to establish transparent relationships that allowed for comfortable and structured communication between all parties.  <br />  
+- Worked on an 8-person geospatial technical team utilizing Agile-Scrum project management techniques to schedule and satisfy collection requests for the Marine Pacific detachment consisting of 35,000 to 55,000 personnel.
+- Conducted customer interviews to develop story tasks and expectations used to construct collection plans that fed into over 100 validated and satisfied geospatial products.
+- Served as a mediator at over 200 meetings between customers and third-party technical teams to establish transparent relationships that allowed for comfortable and structured communication between all parties.
 
 
 **Intelligence Analyst, 3rd Intelligence Battalion**  \
-2012 to 2015 - Okinawa,Japan
+2012 to 2015 - Okinawa, Japan
 
 Updated the regional executive officer about changes in the operational area of 36 countries with a focus in maritime affairs and creating operational products and presentations to accurately describe changes within geospatial environments.
 
 - Briefed weekly presentations to executive staff of changes in the operational environment and monthly forecasts for potential issues within the tactical and strategicenvironment.
 
 **Co-Founder + Project Manager, Table 87**  \
-2012 to 2016 - Orange County,California
+2012 to 2016 - Orange County, California
 
 Created, funded, and managed a startup business in the music and event industry. Led team event planning sessions, balanced budgets, tracked internal requirements, customer trends analysis, and delegated operational requirements to management teams for event execution.
 
