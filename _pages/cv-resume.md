@@ -18,16 +18,16 @@ Aug 2019 to Current - Orange County, California
 
 Collect, clean, review and map geospatial data for federally funded research projects focused on analyzing relationships and trends within disadvantaged communities for projects related to Public Health.
 - Familiar with OLS, Random Forest, Generalized Additive, ARIMA, KNN, Geographically Weighted Regression, and K Means Clustering
+- Designed and implemented a risk index database using a cloud based mysql instance using New York public health department COVID-19 reporting, census estimates, and hospital inventory reports.  
+- Automated reusable python web scraping tools to collect JSON formatted geospatial data from Weedmaps API, Google Maps API, and Yelp API that reduced time spent manually gathering data.
+- Implemented coding standards to assist onboarding analysts to clean, geocode, and spatially join data for applying cross validation techniques for ANOVA testing and model building in both python and R.
 
 **Software-Engineer Intern, Northrop Grumman**
-
 10-Week Program, Jun to Aug 2019 - Los Angeles County, California
 
 Developed, modified, and maintained proprietary software in support of an open mission system architecture used to enable customers to configure a pilot instructor-student trainer environment by simulating air vehicle and ground stationcomponents.
 
-- Implemented software unit tests in C++ using the Google Testing Framework for source files to track and detail project success and failure rates. Files being tested ranged from establishing UDP and TCP server connections, linking libraries, and bitmanipulation.
-
-- Created a remote input output (RIO) channel used by the simulated vehicle management system to turn on an aircrafts auxiliary power unit (APU) and signal engine ready status using C++ and Python.
+- Implemented software unit tests in C++ using the Google Testing Framework for source files to track and detail project success and failure rates. Files being tested ranged from establishing UDP and TCP server connections, linking libraries, and bit manipulation.
 
 **C4ISR Collections + Process Manager, 3rd Intelligence Battalion + III MEF**
 2015 to 2017 - Okinawa,Japan
