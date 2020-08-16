@@ -48,11 +48,15 @@ Familiar with OLS, Random Forest, Generalized Additive, ARIMA, KNN, Geographical
 Developed, modified, and maintained proprietary software in support of an open mission system architecture used to enable customers to configure a pilot instructor-student trainer environment by simulating air vehicle and ground station components.
 
 <ul>
-<li>Implemented software unit tests in C++ using the Google Testing Framework for source files to track and detail project success and failure rates. Files being tested ranged from establishing UDP and TCP server connections, linking libraries, and bit manipulation.</li>
+<li>
+Implemented software unit tests in C++ using the Google Testing Framework for source files to track and detail project success and failure rates. Files being tested ranged from establishing UDP and TCP server connections, linking libraries, and bit manipulation.
+</li>
 </ul>
 
 <ul>
-<li>Created a remote input output (RIO) channel used by the simulated vehicle management system to turn on an aircrafts auxiliary power unit (APU) and signal engine ready status using C++ and Python.</li>
+<li>
+Created a remote input output (RIO) channel used by the simulated vehicle management system to turn on an aircrafts auxiliary power unit (APU) and signal engine ready status using C++ and Python.
+</li>
 </ul>
 
 **C4ISR Collections + Process Manager, 3rd Intelligence Battalion + III MEF**  \
@@ -60,28 +64,51 @@ Developed, modified, and maintained proprietary software in support of an open m
 
 Managed the use of organizational satellite-air-ground data collection resources by validating and processing customer collection requests within the Asia-PACOM region. 
 
+<ul>
+<li>
 Customer service ranged from issue development, requirement building consultations, and collaborating with technical teams to construct customer collection feeds.
+</li>
+</ul>
 
+<ul>
+<li>
 Worked on an 8-person geospatial technical team utilizing Agile-Scrum project management techniques to schedule and satisfy collection requests for the Marine Pacific detachment consisting of 35,000 to 55,000 personnel.
+</li>
+</ul>
 
+<ul>
+<li>
 Conducted customer interviews to develop story tasks and expectations used to construct collection plans that fed into over 100 validated and satisfied geospatial products.
+</li>
+</ul>
 
+<ul>
+<li>
 Served as a mediator at over 200 meetings between customers and third-party technical teams to establish transparent relationships that allowed for comfortable and structured communication between all parties.
-
+</li>
+</ul>
 
 **Intelligence Analyst, 3rd Intelligence Battalion**  \
 2012 to 2015 - Okinawa, Japan
 
 Updated the regional executive officer about changes in the operational area of 36 countries with a focus in maritime affairs and creating operational products and presentations to accurately describe changes within geospatial environments.
 
+<ul>
+<li>
 Briefed weekly presentations to executive staff of changes in the operational environment and monthly forecasts for potential issues within the tactical and strategicenvironment.
+</li>
+</ul>
 
 **Co-Founder + Project Manager, Table 87**  \
 2012 to 2016 - Orange County, California
 
 Created, funded, and managed a startup business in the music and event industry. Led team event planning sessions, balanced budgets, tracked internal requirements, customer trends analysis, and delegated operational requirements to management teams for event execution.
 
+<ul>
+<li>
 Recruited and managed 12 employees to work for a startup that was mentioned in the Orange County Register and the Santanero Zine and described as a culture incubator.
+</li>
+</ul>
 
 **Chapman University**  \
 Expected Graduation Date: 01/2021
