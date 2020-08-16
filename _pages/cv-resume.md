@@ -13,12 +13,14 @@ title: cv-resume
 
 Five years of experience in researching, reviewing, refining, and evaluating requirements and information gaps to develop operational action plans. Effective in communicating and interpreting both business and technical specifications and vice versa between customers and development teams. Additional 4 years of experience in business startup and project management and comfortable working with teams, building forecasts, budgets, trend and patterns reports, and presentations.
 
-**Work Place**  \
-Data Place
+**Geospatial Analyst, Health and Space Lab**        
+Aug 2019 to Current - Orange County, California
 
-     A ljfdcg
+Collect, clean, review and map geospatial data for federally funded research projects focused on analyzing relationships and trends within disadvantaged communities for projects related to Public Health.
 
-     Bhttg grddx
+* Designed and implemented a risk index database using a cloud based mysql instance using New York public health department COVID-19 reporting, census estimates, and hospital inventory reports.
+
+* Automated reusable python web scraping tools to collect JSON formatted geospatial data from Weedmaps API, Google Maps API, and Yelp API that reduced time spent manually gathering data.
 
 **Software-Engineer Intern, Northrop Grumman**  \
 10-Week Program, Jun to Aug 2019 - Los Angeles County, California
