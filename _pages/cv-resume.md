@@ -16,9 +16,12 @@ Five years of experience in researching, reviewing, refining, and evaluating req
 **Geospatial Analyst, Health and Space Lab**        
 Aug 2019 to Current - Orange County, California
 
-+ Collect, clean, review and map geospatial data for federally funded research projects focused on analyzing relationships and trends within disadvantaged communities for projects related to Public Health.
-
-+ Designed and implemented a risk index database using a cloud based mysql instance using New York public health department COVID-19 reporting, census estimates, and hospital inventory reports.
+Collect, clean, review and map geospatial data for federally funded research projects focused on analyzing relationships and trends within disadvantaged communities for projects related to Public Health.
+<ul>
+<li>
+Designed and implemented a risk index database using a cloud based mysql instance using New York public health department COVID-19 reporting, census estimates, and hospital inventory reports.
+</li>
+</ul>
 
 Automated reusable python web scraping tools to collect JSON formatted geospatial data from Weedmaps API, Google Maps API, and Yelp API that reduced time spent manually gathering data.
 
