@@ -17,10 +17,13 @@ Five years of experience in researching, reviewing, refining, and evaluating req
 Aug 2019 to Current - Orange County, California
 
 Collect, clean, review and map geospatial data for federally funded research projects focused on analyzing relationships and trends within disadvantaged communities for projects related to Public Health.
+<ul>
+- Designed and implemented a risk index database using a cloud based mysql instance using New York public health department COVID-19 reporting, census estimates, and hospital inventory reports.
+</ul>
 
-* Designed and implemented a risk index database using a cloud based mysql instance using New York public health department COVID-19 reporting, census estimates, and hospital inventory reports.
-
-* Automated reusable python web scraping tools to collect JSON formatted geospatial data from Weedmaps API, Google Maps API, and Yelp API that reduced time spent manually gathering data.
+<ul>
+- Automated reusable python web scraping tools to collect JSON formatted geospatial data from Weedmaps API, Google Maps API, and Yelp API that reduced time spent manually gathering data.
+</ul>
 
 **Software-Engineer Intern, Northrop Grumman**  \
 10-Week Program, Jun to Aug 2019 - Los Angeles County, California
