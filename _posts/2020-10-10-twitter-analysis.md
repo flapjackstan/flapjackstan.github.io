@@ -161,7 +161,7 @@ category: Twitter
 <iframe
     width="900"
     height="600"
-    src="../files/delta.html"
+    src="https://flapjackstan.github.io/files/delta.html"
     frameborder="0"
     allowfullscreen
 ></iframe>
