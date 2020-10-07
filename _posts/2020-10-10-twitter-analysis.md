@@ -5,9 +5,6 @@ summary: Data Exploration
 category: Twitter
 ---
 
-South LA revisited with an OLS, Elastic Net, and Random Forest Regression.
-- Authors: Elmer Camargo, Nicholas Trella, Geoffrey Hughes, Alberto Ng 
-
     In C:\Program Files\Anaconda\lib\site-packages\matplotlib\mpl-data\stylelib\_classic_test.mplstyle: 
     The text.latex.unicode rcparam was deprecated in Matplotlib 3.0 and will be removed in 3.2.
     In C:\Program Files\Anaconda\lib\site-packages\matplotlib\mpl-data\stylelib\_classic_test.mplstyle: 
@@ -164,7 +161,7 @@ South LA revisited with an OLS, Elastic Net, and Random Forest Regression.
 <iframe
     width="900"
     height="600"
-    src="files/delta.html"
+    src="../files/delta.html"
     frameborder="0"
     allowfullscreen
 ></iframe>
