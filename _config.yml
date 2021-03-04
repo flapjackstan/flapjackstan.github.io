@@ -1,4 +1,4 @@
-site: Elmer
+site: flapjackstan
 url: 
 author: Elmer
 author:
@@ -6,7 +6,7 @@ author:
   email: elm.s.camargo@gmail.com
   url: 
   avatar: 
-title: Elmer
+title: flapjackstan
 description: Elmer - Single column blog and portfolio Jekyll theme 
 logo: 
 image: 
@@ -67,7 +67,19 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: "page" 
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "project"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"     
       
   - scope:
       path: "assets/images"
