@@ -7,14 +7,15 @@ category: Good Times, More Brew
 ---
 
 awwww yissss
-<p align="center">
+added div and 500
+<div align="center">
 <iframe
-    width="900"
-    height="600"
+    width="500"
+    height="500"
     src="../files/la-minority-covid.html"
     src="https://flapjackstan.github.io/files/la-minority-covid.html"
-    frameborder="0"
+    frameborder="1px"
     allowfullscreen
 ></iframe>
-</p>
+</div>
 
