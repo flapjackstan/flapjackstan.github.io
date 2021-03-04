@@ -7,7 +7,7 @@ category: Good Times, More Brew
 ---
 
 awwww yissss
-
+<p align="center">
 <iframe
     width="900"
     height="600"
@@ -16,4 +16,5 @@ awwww yissss
     frameborder="0"
     allowfullscreen
 ></iframe>
+</p>
 
