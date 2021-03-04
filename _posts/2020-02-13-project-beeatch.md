@@ -8,3 +8,12 @@ category: Good Times, More Brew
 
 awwww yissss
 
+<iframe
+    width="900"
+    height="600"
+    src="../files/la-minority-covid.html"
+    src="https://flapjackstan.github.io/files/la-minority-covid.html"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
