@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Making Maps
-description: Map Tutorial
-summary: GIS, Leaflet, R
-category: GIS, Leaflet, R, Analytics
+layout: project
+title: Project example
+description: Coffee
+summary: Coffee and Beer
+category: Good Times, More Brew
 ---
 
 awwww yissss
