@@ -1,13 +1,13 @@
-site: Colorie
+site: Elmer
 url: 
-author: Colorie
+author: Elmer
 author:
-  name: Colorie
+  name: Elmer
   email: elm.s.camargo@gmail.com
   url: 
   avatar: 
-title: Colorie
-description: Colorie - Single column blog and portfolio Jekyll theme 
+title: Elmer
+description: Elmer - Single column blog and portfolio Jekyll theme 
 logo: 
 image: 
 twitter:  
@@ -67,19 +67,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "project"
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"     
+      layout: "page" 
       
   - scope:
       path: "assets/images"
