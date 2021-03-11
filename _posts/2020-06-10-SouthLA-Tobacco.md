@@ -1,8 +1,8 @@
 ---
 layout: project
-title: LAPD Crime Analysis
-summary: Data Exploration
-category: Violent and Property Crimes
+title: South LA Crime Analysis
+summary: Case Study, Modeling, R
+category: Case Study, Modeling, R
 ---
 
 South LA revisited with an OLS, Elastic Net, and Random Forest Regression.

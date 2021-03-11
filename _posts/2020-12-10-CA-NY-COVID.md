@@ -1,8 +1,7 @@
 ---
 layout: project
 title: CA + NY COVID Comparison
-description: More
-summary: Beer
+summary: Public Health, Comparison, R
 category: More Brew
 ---
 # LA-NY COVID-19 Comparison Study
