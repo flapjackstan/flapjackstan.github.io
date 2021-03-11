@@ -5,15 +5,12 @@ summary: Time Series, GAM, R
 category: Time Series, GAM, R
 ---
 
-2 srcs
-
 awwww yissss
 added div and 500
 
-one src
 <div align="center">
 <iframe
-    width="500"
+    width="800"
     height="500"
     src="../files/delta.html"
     src="https://flapjackstan.github.io/files/delta.html"
