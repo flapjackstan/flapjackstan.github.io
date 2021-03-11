@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Twitter Sentiment Analysis and Time
+title: Twitter Sentiment Analysis
 summary: Time Series, GAM, R 
 category: Time Series, GAM, R
 ---
@@ -13,7 +13,8 @@ one src
 <iframe
     width="500"
     height="500"
-    src="../files/delta.html""
+    src="https://flapjackstan.github.io/files/delta.html"
+    src="../files/delta.html"
     frameborder="1px"
     allowfullscreen
 ></iframe>
