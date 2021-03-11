@@ -15,8 +15,8 @@ one src
 <iframe
     width="500"
     height="500"
-    src="../files/la-minority-covid.html"
-    src="https://flapjackstan.github.io/files/la-minority-covid.html"
+    src="../files/delta.html"
+    src="https://flapjackstan.github.io/files/delta.html"
     frameborder="1px"
     allowfullscreen
 ></iframe>
