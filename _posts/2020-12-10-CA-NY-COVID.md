@@ -1,6 +1,6 @@
 ---
 layout: project
-title: CA x NY COVID Comparison
+title: CA + NY COVID Comparison
 description: More
 summary: Beer
 category: More Brew
