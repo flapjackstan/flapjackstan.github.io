@@ -9,10 +9,10 @@ I enjoy working with data and tackling complex issues with a good attitude.
 ## Programming Tools
 
 ##### Python
-`pandas` `seaborn` `scipy` `shapely` `numpy` `requests` `plotnine` `googlemaps` `pyyaml` `geopandas` `pysal`
+`pandas`, `seaborn`,`scikitlearn`, `shapely`,`numpy`, `requests`,`plotnine`,`googlemaps`,`keras`, `geopandas`,`pysal`,`keplergl`,`gee`
 
 ##### R
-`tidyverse` `sf` `mice` `randomForest` `glmnet` `forecast`
+`tidyverse`,`sf`,`mice`,`randomForest`,`glmnet`, `forecast`,`tmap`,`shiny`,`leaflet`,`caret`
 
 ##### C++
 `GDAL`
