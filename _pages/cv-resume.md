@@ -10,7 +10,7 @@ title: cv-resume
 
 (714) 342-7808 //[camargop@chapman.edu](mailto:camargop@chapman.edu)// Long Beach, California
 
-**DATA ANALYST**
+**DATA SCIENTIST**
 
 Five years of experience in researching, reviewing, refining, and evaluating requirements and information gaps to develop operational action plans. Effective in communicating and interpreting both business and technical specifications and vice versa between customers and development teams. Additional 4 years of experience in business startup and project management and comfortable working with teams, building forecasts, budgets, trend and patterns reports, and presentations.
 
@@ -20,13 +20,13 @@ Jan 2021 to Apr 2021 - Los Angeles, California
 Maintained and updated over 10 databases that fed into various dashboards and reports using tools such as Tableau, Google Suite, and ArcGIS for Developers.
 <ul>
 <li>
-Developed map features for LA City i-team vaccination dashboard utilizing R, Shiny, and Leaflet.
+Built a  vaccination dashboard for the LA City Mayor's Offices utilizing R, Shiny, and Leaflet.
 </li>
 </ul>
 
 <ul>
 <li>
-Assisted in analyzing COVID19 contact tracing data for the LA County Department of Public Health providing insight on interview characteristics.
+Analyzed COVID19 contact tracing data for the LA County Department of Public Health providing insight on interview characteristics.
 </li>
 </ul>
 
