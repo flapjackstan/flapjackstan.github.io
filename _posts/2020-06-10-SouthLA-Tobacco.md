@@ -1,8 +1,8 @@
 ---
 layout: project
 title: South LA Crime Analysis
-summary: GIS, Modeling, Buffer Analysis, R
-category: GIS, Modeling, Buffer Analysis, R
+summary: GIS, Web Scraping, Buffer Analysis, R
+category: GIS, Web Scraping, Buffer Analysis, R
 ---
 
 South LA revisited with an OLS, Elastic Net, and Random Forest Regression.
