@@ -1,8 +1,8 @@
 ---
 layout: project
 title: South LA Crime Analysis
-summary: Case Study, Modeling, R
-category: Case Study, Modeling, R
+summary: GIS, Modeling, Buffer Analysis, R
+category: GIS, Modeling, Buffer Analysis, R
 ---
 
 South LA revisited with an OLS, Elastic Net, and Random Forest Regression.
