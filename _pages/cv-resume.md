@@ -20,7 +20,7 @@ Jan 2021 to Apr 2021 - Los Angeles, California
 Maintained and updated over 10 databases that fed into various dashboards and reports using tools such as Tableau, Google Suite, and ArcGIS for Developers.
 <ul>
 <li>
-Built a  vaccination dashboard for the LA City Mayor's Offices utilizing R, Shiny, and Leaflet.
+Built a  vaccination dashboard for the LA City Mayor's Offices utilizing CURL, SFTP, R, Shiny, and Leaflet.
 </li>
 </ul>
 
