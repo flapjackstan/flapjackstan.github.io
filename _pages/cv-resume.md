@@ -47,12 +47,12 @@ Analyzed indications of multi-dimensional poverty and sustainable development go
 
 Developed and maintained proprietary flight simulation and pilot training software using programming standards to adhere to near real time requirements and used automated testing technologies to test production code.
 
-**C4ISR Collections + Process Manager, 3rd Intelligence Battalion + III MEF**  \
+**Data Management Consultant, 3rd Intelligence Battalion + III MEF**  \
 2015 to 2017 - Okinawa, Japan
 
 Managed the use of departmental data collection resources and technologies by collaborating with stakeholders to validate and develop information requirements and consulting them on topics such as integration and retention techniques for the structured and unstructured data provided by departmental data collection resources and technologies.
 
-**Intelligence Analyst, 3rd Intelligence Battalion**  \
+**Data Analyst, 3rd Intelligence Battalion**  \
 2012 to 2015 - Okinawa, Japan
 
 Conveyed analytical findings and conclusions of work to the regional executive officer, technical staff, and non-technical staff through oral presentations using interactive tools and worked with program staff to implement actionable and data supported business processes to retain fidelity in said analysis.
@@ -65,4 +65,3 @@ Relevant Coursework -- CPSC I&II, Data Structures and Algorithms, Statistical Mo
 **Technical Skills + Certifications**
 
 Python, R, SQL, NodeJS, Web Development, C++, Java, C#, git, bash, linux, vdi, ArcGIS Suite, Google Earth Engine, QGIS, Geospatial Information Management System Certification, Github Actions, Jenkins, Tableau, Power BI, Asana, Airtable, Trello, Microsoft Office, Atlassian Development Toolset, Slack, Visio, Mermaid.JS, Lean Six Sigma Yellow Belt
-
