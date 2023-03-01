@@ -8,7 +8,7 @@ title: cv-resume
 # ELMER CAMARGO
 ---
 
-(714) 342-7808 //[camargop@chapman.edu](mailto:camargop@chapman.edu)// Long Beach, California
+Long Beach, California
 
 **DATA SCIENTIST**
 
@@ -23,26 +23,26 @@ Implemented a county COVID19 vaccination data pipeline product for division, dep
 
 Worked with functional teams to develop and maintain the interactive data visualizations on the public data dashboard website and used software testing techniques to create a reporting system to verify data quality assurance and site functionality.
 
-**Data Fellow,  LA City Mayor's Office - Innovation Team**        
+**Data Scientist,  LA City Mayor's Office - Innovation Team**        
 Jan 2021 to Apr 2021 - Los Angeles, California
 
 Developed an internal COVID19 dashboard for the mayor’s office tracking cases, hospitalizations, deaths, and vaccination trends highlighting key timelines related to the Notify LA Program and presented key insights to support business decisions and allocate resources.
 
 Collaborated with countywide stakeholders to solicit, define, and manage the Geospatial Clustering data science project, which used the Auto Classification Algorithm of k-means clustering with Contact Tracing survey data.
 
-**Geospatial Analyst,  Community Health Equity Lab**        
+**Geospatial Engineer,  Community Health Equity Lab**        
 Aug 2019 to Jan 2021 - Orange County, California
 
 Mapped and analyzed data related to multiple projects revolved around crimes in vicinity of legal drug outlets, crimes in vicinity of parks, elementary school lunch programs, transportation hotspots, and COVID19 outbreaks.
 
 Statistical analysis used throughout various projects consisted of ANOVA tests, t-tests, regressions, NLP Classifications, and Predictive Scoring.
 
-**Geospatial Analyst,  Hersh Economic Development Lab**        
+**Geospatial Engineer,  Hersh Economic Development Lab**        
 Aug 2020 to Jan 2021 - Orange County, California
 
 Analyzed indications of multi-dimensional poverty and sustainable development goal achievement for the Sahel region of Africa by designing and implementing an initial spatial database via cloud storage combining population and settlement estimates from unstructured remote sensing platforms and structured open street map data.
 
-**Software-Engineer Intern, Northrop Grumman**  \
+**Software-Engineer, Northrop Grumman**  \
 10-Week Program, Jun to Aug 2019 - Los Angeles County, California
 
 Developed and maintained proprietary flight simulation and pilot training software using programming standards to adhere to near real time requirements and used automated testing technologies to test production code.
