@@ -1,3 +1,8 @@
+---
+layout: page
+title: cv-resume
+---
+
 
 # ELMER CAMARGO
 ---
@@ -51,3 +56,4 @@ Relevant Coursework -- CPSC I&II, Data Structures and Algorithms, Statistical Mo
 **Technical Skills + Certifications**
 
 Python, R, SQL, NodeJS, Web Development, C++, Java, C#, git, bash, linux, vdi, ArcGIS Suite, Google Earth Engine, QGIS, Geospatial Information Management System Certification, Github Actions, Jenkins, Tableau, Power BI, Asana, Airtable, Trello, Microsoft Office, Atlassian Development Toolset, Slack, Visio, Mermaid.JS, Lean Six Sigma Yellow Belt
+
