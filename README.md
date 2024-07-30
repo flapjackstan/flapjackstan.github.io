@@ -31,3 +31,6 @@ repo/
 ## Notes
 - `Gemfile` lists dependencies for the project
 - `chruby` manages different `ruby` versions
+- `/_layouts/blog/html` is what makes the `index.html` landing page. It makes the card for each file in `/_posts`
+- `/_layouts/project.html` is the format im using to style my individual post files. I like how it looks better than `/_layouts/post.html`, but I should probably edit it to look like what I want.
+- The `yaml` at the top of each post in `/_posts` defines what layout to use that is available in `/_layouts`
