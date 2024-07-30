@@ -11,6 +11,23 @@ This is more so some notes on how to update and develop my site.
 ## Workflow
 Run locally, confirm site looks like what you want then push to prod
 
+## Directory Structure
+```
+repo/
+|── _includes                  # Theme includes
+├── _layouts                   # Theme layouts (see below for details)
+├── _pages                     # Menu pages
+├── _plugins                   # Any plugins the site uses
+├── _posts                     # Where all your posts pages will go
+├── _projects                  # Where all your project pages go
+├── _sass                      # `sass` files
+├── files                      # Any pdfs or one off html files
+├── images                     # Any images to link to posts or pojects
+├── _config.yml                # Site build settings
+├── Gemfile                    # Ruby Gemfile for managing Jekyll plugins
+└── index.html                 # The other files build on top of this - dont touch
+```
+
 ## Notes
 - `Gemfile` lists dependencies for the project
 - `chruby` manages different `ruby` versions
