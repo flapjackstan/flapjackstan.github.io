@@ -8,4 +8,13 @@ Thanks for checking out my about me. My name is Elmer. I am a data scientist at 
 
 I am very interested in working in roles that include stakeholder management and steering the wheel on some technical products. I would ideally like to point out some pitfalls I have come accross and implment best practices.
 
+Outside of work, I like to play guitar and am back and forth on entering an aeropress competition.
+
 Please reach out at elm.s.camargo@gmail.com
+
+TLDR;
+- Work History: UAVs, Satellites, Sensors -> Software Engineering -> Data Science
+- Education: MS + MBA
+- Future: Stakeholder Management and Technical Products
+- Personal: Guitar and Coffee
+
