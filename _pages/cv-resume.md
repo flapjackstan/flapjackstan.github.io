@@ -2,58 +2,47 @@
 layout: page
 title: cv-resume
 ---
+**Elmer Camargo**  
+Long Beach, CA | elm.s.camargo@gmail.com | (714) 342-7808 | [Linkedin](http://linkedin.com/in/elmer-camargo-datasci/)
 
+**TECHNICAL SKILLS:** Python, SQL, R, JS, Git, Vim, Linux, Docker, Quarto, Statistics, CI/CD, GIS, FastAPI
 
-# ELMER CAMARGO
----
+**PROFESSIONAL EXPERIENCE**  
+**LA County Department of Public Health<br>					  		        Los Angeles, CA**  
+**Senior Data Scientist<br>									         	    Apr 2021 – Present**
 
-Long Beach, California
+* Drove cross-functional collaboration with epidemiology teams to define technical requirements used to deliver the LA County COVID-19 data dashboard, a key resource for governments and media outlets  
+* Led the end-to-end development of mission critical vaccination data pipelines and KPI reporting infrastructure delivering insights to department and countywide stakeholders  
+* Acquired technical resources to deploy internal products to downstream teams enhancing team efficiency across multiple codebases and overall impact among related projects  
+* Identified data modeling deficiencies and executed an architecture change initiative, restructuring processes to improve record retrieval times and reduce external API costs resulting in significant operational savings
 
-**DATA SCIENTIST**
+**City of Los Angeles, Mayor's Office**<br>						  		        **Los Angeles, CA**  
+**Data Scientist<br>								         		       	  Dec 2020 – Apr 2021**
 
-As a data scientist with a focus on healthcare, I specialize in collaborating with public health stakeholders in creating end to end data systems. I am passionate about leveraging software and data science best practices to improve healthcare outcomes, guide strategy, and communicate complexity.
+* Collaborated with public health workers to provide a clustering analysis used in prioritizing sending financial incentivized surveys to residents involved in disease outbreak  
+* Developed an internal COVID19 dashboard for the tracking cases, hospitalizations, deaths, and vaccination trends in relation to key timelines provided by the Notify LA Program used in emergency broadcasting
 
-**Data Scientist,  LA County Department of Public Health**        
-Apr 2021 to Present - Los Angeles, California
+**Chapman University**					  						    **Orange, CA**  
+**Researcher							 	        		       	 Aug 2019 – Dec 2020**
 
-- Collaborated with epidemiological teams to develop and maintain interactive data visualizations using JavaScript for the LA County COVID19 dashboard website referenced by state governments, city governments, health departments, and national news agencies
-- Programmed vaccination data pipelines for division, department, and countywide stakeholders using Python, Linux, Snowflake, and Postgres and developed tooling to strengthen departmental capacity
-- Optimized data processes by restructuring portions of system architecture to improve record retrieval and reduce costs for 3rd party APIs
-- Created an internal REST API for users to explore, interpret, and verify data quality assurance practices
+* Drafted findings from regression analysis and analysis of variance for describing the relationship between crime in proximity to alcohol, tobacco, and marijuana outlets in South LA
 
-**Data Scientist,  LA City Mayor's Office - Innovation Team**        
-Jan 2021 to Apr 2021 - Los Angeles, California
+**Northrop Grumman**<br>					  						 **Palmdale, CA**  
+**Software Engineer<br>								 	        	May 2019 – Aug 2019**
 
-- Developed an internal COVID19 dashboard for the mayor’s office tracking cases, hospitalizations, deaths, and vaccination trends in relation to key timelines provided by the Notify LA Program used in emergency broadcasting
-- Collaborated with LA County Department of Public Health stakeholders to provide a geospatial clustering analysis using contact tracing data to classify locations of disease outbreak and support decision making on where to prioritize sending financial incentivized surveys
+* Implemented software unit tests in C++ using to identify flight simulation software defects, validate code reliability, and contribute to the stability of CI/CD pipelines enabling faster and safer delivery of features
 
+**United State Marine Corps**<br>					  				           **San Diego, CA**  
+**Data Collection Manager<br>								 	   Oct 2012 – Jul 2017**
 
-**Research Assistant  Community Health Equity Lab and Hersh Economic Development Lab**        
-Aug 2019 to Jan 2021 - Orange County, California
+* Managed aerial vehicle and satellite data collection resources and collaborated with stakeholders to refine priority information requests avoiding unnecessary expenditures on redundant or low-priority data collection
 
-- Drafted findings from regression analysis for two distinct projects 1) world bank sustainable development goals and 2) South LA crime around alcohol, tobacco, and marijuana outlets.
+**EDUCATION**   
+**University of Southern California**<br> 							         **Los Angeles, California**  
+**Master of Science, Systems Engineering<br>								         Dec 2024** 
 
-**Software-Engineer, Northrop Grumman**  \
-Jun to Aug 2019 - Los Angeles County, California
+**University of Southern California**<br> 							         **Los Angeles, California**  
+**Master of Business Administration (STEM)<br>								         Dec 2024** 
 
-- Implemented software unit tests in C++ using the google testing framework to identify flight simulation software defects, validate code reliability, and contribute to the stability of CI/CD pipelines enabling faster and safer delivery of features
-
-**Data Management Consultant, 3rd Intelligence Battalion + III MEF**  \
-2015 to 2017 - Okinawa, Japan
-
-- Managed the use of departmental data collection resources and technologies by collaborating with stakeholders to validate and develop information requirements and consulting them on topics such as integration and retention techniques for the structured and unstructured data provided by departmental data collection resources and technologies.
-
-**Data Analyst, 3rd Intelligence Battalion**  \
-2012 to 2015 - Okinawa, Japan
-
-- Conveyed analytical findings and conclusions of work to the regional executive officer, technical staff, and non-technical staff through oral presentations using interactive tools and worked with program staff to implement actionable and data supported business processes to retain fidelity in said analysis.
-
-**Chapman University**  \
-Bachelor of Science in Data Analytics - 3.3 GPA
-
-Relevant Coursework -- CPSC I&II, Data Structures and Algorithms, Statistical Modeling, Data Science, Visual Programming, Introduction to Machine Learning, Applied Analytics, Database Management Systems, Computer Networks and Communication, Introduction to GIS, Introduction to Remote Sensing
-
-**Technical Skills + Certifications**
-
-Python, R, SQL, NodeJS, Web Development, C++, Java, C#, git, bash, linux, vdi, ArcGIS Suite, Google Earth Engine, QGIS, Geospatial Information Management System Certification, Github Actions, Jenkins, Tableau, Power BI, Asana, Airtable, Trello, Microsoft Office, Atlassian Development Toolset, Slack, Visio, Mermaid.JS, Lean Six Sigma Yellow Belt
-
+**Chapman University**<br>							         			     **Orange, California**  
+**Bachelor of Science, Data Analytics<br>									         Feb 2021** 
