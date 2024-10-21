@@ -22,8 +22,8 @@ Long Beach, CA | elm.s.camargo@gmail.com | (714) 342-7808 | [Linkedin](http://li
 * Collaborated with public health workers to provide a clustering analysis used in prioritizing sending financial incentivized surveys to residents involved in disease outbreak  
 * Developed an internal COVID19 dashboard for the tracking cases, hospitalizations, deaths, and vaccination trends in relation to key timelines provided by the Notify LA Program used in emergency broadcasting
 
-**Chapman University**					  						    **Orange, CA**  
-**Researcher							 	        		       	 Aug 2019 – Dec 2020**
+**Chapman University**<br>					  						    **Orange, CA**  
+**Researcher<br>							 	        		       	 Aug 2019 – Dec 2020**
 
 * Drafted findings from regression analysis and analysis of variance for describing the relationship between crime in proximity to alcohol, tobacco, and marijuana outlets in South LA
 
