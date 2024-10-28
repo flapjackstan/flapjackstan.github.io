@@ -5,6 +5,7 @@ summary: Grad School, Statistics, Optimization
 category: Grad School, Statistics, Optimization
 ---
 # Context
+This was the final project assignment for ISE 525. The class emphasized response surface methodolgy and its capstone was exploring a randomized response surface. The project began with an assignment of a response surface function that was accessed by a `.net` executable file. The `.exe` file then asks for trial inputs settings for various variables. I used fractional factorial designn and statistical optimization methodologies to find the optimal point on the multi-dimensional surface using minimal costly trials. 
+
 [Experimental Design Final](https://flapjackstan.github.io/files/ExperimentalDesignSample.pdf)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
